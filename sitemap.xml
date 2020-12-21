@@ -3,5 +3,6 @@
 <url> <loc>https://imxges.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://imxges.com/example/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://imxges.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://imxges.com/privacy-policy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://imxges.com/timothy-benson/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
